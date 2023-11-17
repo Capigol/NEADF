@@ -1,0 +1,21 @@
+Date clustering was performed: ,17/11/2023
+Seetings:,
+Threshold variance:,0.05
+Random seed:,False
+Number of subsets:,100
+Number of descriptors by subset:,200
+Correlation coefficient:,pearson
+Correlation threshold:,0.4
+Min number of descriptors by subset:,4
+Max number of descriptors by subset:,25
+Min number of clusters by round:,2
+Max number of clusters by round:,21
+Max relation 'cluster/total':,0.3
+Max number of rounds:,5
+PCAs:,2
+,
+Results:,
+Total rounds :,3
+Total clusters :,13
+,
+"To cite the application, please reference: ",XXXXXXXXXXX
